@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 
-
+/* See notes.md for info re #define */
 
 #define LOWER 0
 #define UPPER 300
