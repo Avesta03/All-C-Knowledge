@@ -10,4 +10,4 @@ Properly Started Learning: 30th October, 2024
 Hiatus #1 Taken: 5th November, 2024 - 10th February 2025 #oops
 
 ### Textbooks/Books/Sources Used
-* The C Programming Language, 2nd Edition (Kernighan)
+* The C Programming Language, 2nd Edition (Kernighan) -- STOPPED USING THIS BOOK AFTER 16 PAGES AS OUTDATED! --
