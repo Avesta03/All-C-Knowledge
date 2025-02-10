@@ -28,3 +28,7 @@ The function _putchar_ prints a character each time it is called:
 _putchar(c)_
 
 Here, the contents of the integer variable 'c' as a character are printed.
+
+# File Copying 
+
+Given getchar and putchar, you can write a surprising amount of useful code without knowing anything more about input/output. The simplest example is a program that copies its input to its output one character at a time.
